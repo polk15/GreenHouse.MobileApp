@@ -1,0 +1,8 @@
+C:\Users\Mihai\source\repos\GreenHouse.MobileApp\GreenHouse.MobileApp.Infrastructure\bin\Debug\netstandard2.0\GreenHouse.MobileApp.Infrastructure.deps.json
+C:\Users\Mihai\source\repos\GreenHouse.MobileApp\GreenHouse.MobileApp.Infrastructure\bin\Debug\netstandard2.0\GreenHouse.MobileApp.Infrastructure.dll
+C:\Users\Mihai\source\repos\GreenHouse.MobileApp\GreenHouse.MobileApp.Infrastructure\obj\Debug\netstandard2.0\GreenHouse.MobileApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Mihai\source\repos\GreenHouse.MobileApp\GreenHouse.MobileApp.Infrastructure\obj\Debug\netstandard2.0\GreenHouse.MobileApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mihai\source\repos\GreenHouse.MobileApp\GreenHouse.MobileApp.Infrastructure\obj\Debug\netstandard2.0\GreenHouse.MobileApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Mihai\source\repos\GreenHouse.MobileApp\GreenHouse.MobileApp.Infrastructure\bin\Debug\netstandard2.0\GreenHouse.MobileApp.Infrastructure.pdb
+C:\Users\Mihai\source\repos\GreenHouse.MobileApp\GreenHouse.MobileApp.Infrastructure\obj\Debug\netstandard2.0\GreenHouse.MobileApp.Infrastructure.dll
+C:\Users\Mihai\source\repos\GreenHouse.MobileApp\GreenHouse.MobileApp.Infrastructure\obj\Debug\netstandard2.0\GreenHouse.MobileApp.Infrastructure.pdb

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="GreenHouse.MobileApp.Views.CreateReportPage">
+    <ContentPage.Content>
+        <Grid BackgroundColor="White">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="0,10,0,0" Grid.Row="0">
+
+
+                <Label Text="@GreenHouse"/>
+
+            </StackLayout>
+
+            <Grid Grid.Row="1" Margin="20,0,20,0">
+
+                <Grid.RowDefinitions>
+
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="*"/>
+
+                </Grid.RowDefinitions>
+                <Entry x:Name="X" Grid.Row="1" Placeholder="X=" PlaceholderColor="#bababa" FontSize="16"/>
+                <Entry x:Name="Y" Grid.Row="2" Placeholder="Y=" PlaceholderColor="#bababa" FontSize="16"/>
+                <Entry x:Name="Description" Grid.Row="3" Placeholder="Y=" PlaceholderColor="#bababa" FontSize="16"/>
+                <Button x:Name="Button_GetLocationAuto" Text="Get Current Location" Grid.Row="4" FontSize="16"/>
+                <CheckBox x:Name ="IsScheduled" Grid.Row="5"/>
+                <Button x:Name="Btn_Add" Grid.Row="6" Text="Add Report" BackgroundColor="Transparent" TextColor="Gray" HeightRequest="50" VerticalOptions="Start"/>
+
+            </Grid>
+
+        </Grid>
+
+    </ContentPage.Content>
+</ContentPage>
